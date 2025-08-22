@@ -23,3 +23,8 @@ Built with **Python, Streamlit, and YouTube Transcript API**, this tool allows y
    cd YouTube_Video_Summarizer
    streamlit run app.py
    ```
+if you want to use the app on a personal device for learning purpose must have a .env file which will have api keys for LLM. Format for .env file:
+
+GEMINI_API_KEY = Your api key,
+
+GEMINI_MODEL =gemma-3-27b-it
