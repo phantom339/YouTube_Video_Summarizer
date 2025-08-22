@@ -19,5 +19,5 @@ Built with **Python, Streamlit, and YouTube Transcript API**, this tool allows y
 
 1. Clone the repository:
    ```bash
-https://github.com/phantom339/YouTube_Video_Summarizer.git
+git clone https://github.com/phantom339/YouTube_Video_Summarizer.git
 cd YouTube_Video_Summarizer
